@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org">
+<suite name="Selenium Test Suite">
+    <test name="Local Selenium Tests">
+        <classes>
+            <!-- Updated class path matching your new package assignment -->
+            <class name="com.selenium.LocalLoginTest"/>
+        </classes>
+    </test>
+</suite>
